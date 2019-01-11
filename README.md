@@ -8,7 +8,7 @@
 * References
 
 ## Project description
-Comparing different non-linear activation (Sigmoid, TanH, ReLu using MNIST dataset with one hidden layer 
+Comparing different non-linear activation (Sigmoid, TanH, ReLu) using MNIST dataset with one hidden layer 
 
 ## Development Tools
 * PyTorch framework
